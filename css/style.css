@@ -19,3 +19,34 @@ h1 {
     margin: auto;
     margin-top: 2%;
 }
+
+.pic{
+    display: block;
+    margin: auto;
+    padding: 25px;
+}
+
+.center-head {
+    text-align: center;
+}
+
+.center-list {
+    width: 900px;
+    margin: auto;
+}
+
+.nutrition {
+    background-color: gray;
+    width: 400px;
+    margin: auto;
+    padding-bottom: 4px;
+}
+
+.facts {
+    background-color: black;
+    color: white;
+}
+
+.one {
+    margin-bottom: 20px;
+}
