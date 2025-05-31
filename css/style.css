@@ -56,3 +56,8 @@ button {
 .one {
     margin-bottom: 20px;
 }
+
+.home-img {
+    height: 500px;
+    width: 500px;
+}
